@@ -1,0 +1,21 @@
+[ {
+  "uid" : "8e1f520b32562e72",
+  "name" : "test_search.Test_search_baidu.test_search_logo",
+  "time" : {
+    "start" : 1541406938204,
+    "stop" : 1541406950254,
+    "duration" : 12050
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "afa5ec9a2e706ae3",
+  "name" : "test_search.Test_search_baidu.test_search",
+  "time" : {
+    "start" : 1541406921115,
+    "stop" : 1541406934864,
+    "duration" : 13749
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

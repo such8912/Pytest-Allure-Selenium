@@ -1,0 +1,62 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1541407177147" stop="1541407206925">
+  <name>TestCase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1541407177147" status="passed" stop="1541407191298">
+      <name>test_search.Test_search_baidu.test_search</name>
+      <attachments>
+        <attachment source="8a605fba-d007-44af-aff1-8a0306412f6b-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="story" value="搜索框搜索"/>
+        <label name="severity" value="critical"/>
+        <label name="feature" value="搜索功能"/>
+        <label name="thread" value="8472-MainThread"/>
+        <label name="host" value="user-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps>
+        <step start="1541407184907" status="passed" stop="1541407189196">
+          <name>搜索框搜索内容为Pytest</name>
+          <title>搜索框搜索内容为Pytest</title>
+          <attachments>
+            <attachment source="b4a94ccd-8bef-4e6d-b826-bed17663d8cc-attachment.txt" title="搜索内容" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1541407189196" status="passed" stop="1541407191297">
+          <name>点击第三条搜索内容</name>
+          <title>点击第三条搜索内容</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1541407194498" status="passed" stop="1541407206925">
+      <name>test_search.Test_search_baidu.test_search_logo</name>
+      <attachments>
+        <attachment source="b37bd3ac-cc66-4cb7-be05-7720e68456cf-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="story" value="百度Logo进入"/>
+        <label name="severity" value="minor"/>
+        <label name="feature" value="搜索功能"/>
+        <label name="thread" value="8472-MainThread"/>
+        <label name="host" value="user-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython2"/>
+      </labels>
+      <steps>
+        <step start="1541407204757" status="passed" stop="1541407206922">
+          <name>点击百度Logo进入搜索首页</name>
+          <title>点击百度Logo进入搜索首页</title>
+          <attachments>
+            <attachment source="ad01b70b-3dad-4293-8c98-bb65e724483c-attachment.txt" title="百度Logo" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,33 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "TestCase",
+    "children" : [ {
+      "name" : "test_search.Test_search_baidu.test_search",
+      "uid" : "afa5ec9a2e706ae3",
+      "parentUid" : "ee79ae265a842e48c4df30f006daaf4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541406921115,
+        "stop" : 1541406934864,
+        "duration" : 13749
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_search.Test_search_baidu.test_search_logo",
+      "uid" : "8e1f520b32562e72",
+      "parentUid" : "ee79ae265a842e48c4df30f006daaf4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1541406938204,
+        "stop" : 1541406950254,
+        "duration" : 12050
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ee79ae265a842e48c4df30f006daaf4e"
+  } ]
+}

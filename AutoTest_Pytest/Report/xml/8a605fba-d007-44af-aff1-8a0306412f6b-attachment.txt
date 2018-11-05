@@ -1,0 +1,6 @@
+type:XPATH
+value://*[@id="kw"]
+type:XPATH
+value://*[@id="su"]
+type:XPATH
+value://*[@id="3"]/h3/a

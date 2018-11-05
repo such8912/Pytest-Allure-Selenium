@@ -1,0 +1,97 @@
+{
+  "uid" : "8e1f520b32562e72",
+  "name" : "test_search.Test_search_baidu.test_search_logo",
+  "fullName" : "TestCase.test_search.Test_search_baidu.test_search_logo",
+  "historyId" : "98946dc4613c208d625aa899a71afe53",
+  "time" : {
+    "start" : 1541406938204,
+    "stop" : 1541406950254,
+    "duration" : 12050
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击百度Logo进入搜索首页",
+      "time" : {
+        "start" : 1541406948138,
+        "stop" : 1541406950254,
+        "duration" : 2116
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c73a13944dcaa7d9",
+        "name" : "百度Logo",
+        "source" : "c73a13944dcaa7d9.txt",
+        "type" : "text/plain",
+        "size" : 12
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "搜索功能"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "user-PC"
+  }, {
+    "name" : "language",
+    "value" : "cpython2"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "story",
+    "value" : "百度Logo进入"
+  }, {
+    "name" : "thread",
+    "value" : "7036-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "TestCase"
+  }, {
+    "name" : "testClass",
+    "value" : "TestCase"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_search.Test_search_baidu.test_search_logo"
+  }, {
+    "name" : "package",
+    "value" : "TestCase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e1f520b32562e72.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,2 @@
+type:XPATH
+value://*[@id="lg"]/map/area

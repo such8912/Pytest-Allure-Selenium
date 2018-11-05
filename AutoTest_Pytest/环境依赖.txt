@@ -1,0 +1,4 @@
+python                        2.7.14
+pytest                        3.8.2
+pytest-allure-adaptor         1.7.10
+allure                        2.7.0

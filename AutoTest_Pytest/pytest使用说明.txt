@@ -1,0 +1,22 @@
+pytest是基于py unittest的一个单元测试框架，用起来比unittest简单不少，不过和unittest使用不太一样，总结如下：
+
+格式：
+case的py文件名必须是test开头
+def用例必须是test开头
+class名必须是Test开头，注意大写
+class中的def用例必须是test开头
+
+pytest提供了很多运行参数，比较常用的有：
+-k：只执行指定的用例
+-s:命令行显示测试代码的输出，如果需要输出html结果最好不要-s
+-v：显示详细信息
+-q：不显示详细信息
+--html=path：输出测试结果到html
+
+始化，pytest提供了如下初始化和清理环境方法：(使用方法详见：https://www.cnblogs.com/fnng/p/4769020.html)
+setup_function、teardown_function
+setup_module、teardown_module
+setup、teardown
+setup_class、teardown_class
+setup_method、teardown_method
+@pytest.fixture()

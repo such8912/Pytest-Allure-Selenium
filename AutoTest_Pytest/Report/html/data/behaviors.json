@@ -1,0 +1,41 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "搜索功能",
+    "children" : [ {
+      "name" : "搜索框搜索",
+      "children" : [ {
+        "name" : "test_search.Test_search_baidu.test_search",
+        "uid" : "afa5ec9a2e706ae3",
+        "parentUid" : "1a6259a4d8b8b4d113c16c183783503e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1541406921115,
+          "stop" : 1541406934864,
+          "duration" : 13749
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1a6259a4d8b8b4d113c16c183783503e"
+    }, {
+      "name" : "百度Logo进入",
+      "children" : [ {
+        "name" : "test_search.Test_search_baidu.test_search_logo",
+        "uid" : "8e1f520b32562e72",
+        "parentUid" : "c4f57136fbf39428c0a32b3d3b0cbbcd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1541406938204,
+          "stop" : 1541406950254,
+          "duration" : 12050
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c4f57136fbf39428c0a32b3d3b0cbbcd"
+    } ],
+    "uid" : "1efc265c3091a27732948b78ec22e045"
+  } ]
+}

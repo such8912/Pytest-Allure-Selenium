@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","TestCase.test_search.Test_search_baidu.test_search","13749",""
+"passed","TestCase.test_search.Test_search_baidu.test_search_logo","12050",""
