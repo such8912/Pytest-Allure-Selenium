@@ -1,7 +1,6 @@
-若要直接使用框架运行：
+1.若要直接使用框架运行：
 直接运行run.py
 
-
-若要从cmd控制台执行,操作如下：
+2.若要从cmd控制台执行,操作如下：
 第一步：cmd控制台执行：py.test TestCase/ --alluredir ./Report/xml
 第二步：cmd控制台执行：allure generate C:\Users\user\PycharmProjects\AutoTest_Pytest\Report -o C:\Users\user\PycharmProjects\AutoTest_Pytest\Report\html

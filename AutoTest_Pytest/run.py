@@ -10,6 +10,7 @@ import os
 from utils.shell import Shell
 
 if __name__ == '__main__':
+    # 获取Report\xml和Report\html的路径
     xml_report_path = os.path.join(os.getcwd(), "Report\\xml")
     html_report_path = os.path.join(os.getcwd(), "Report\\html")
 
@@ -24,3 +25,5 @@ if __name__ == '__main__':
         Shell.invoke(cmd)
     except:
         print u"Html测试报告生成失败,确保已经安装了Allure-Commandline"
+    finally:
+        print u"脚本执行完毕"

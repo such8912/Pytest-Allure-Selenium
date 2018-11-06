@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
-from selenium.webdriver.support.wait import WebDriverWait
-from PIL import ImageGrab  # 截屏 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pillow
+import os
+import time
 
-import time,os
+from PIL import ImageGrab  # 截屏 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pillow
+from selenium.webdriver.support.wait import WebDriverWait
 
 cp = os.getcwd()
 sp = os.path.join(cp, "screen_shot")
